@@ -4,7 +4,7 @@ Unmanned surface vehicles (USVs) are vital for water environment protection, esp
 
 ## II. Code Structure
 
-![yolov8改进结构图-改版](C:\Users\Dong\Desktop\小论文\小论文图\成图\yolov8改进结构图-改版.jpg)
+![structure](https://github.com/user-attachments/assets/356b30a6-38e9-4a11-880c-92775b55da9f)
 
 ## III. Installation and Configuration
 
